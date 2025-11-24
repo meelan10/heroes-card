@@ -14,7 +14,7 @@ const HeroCard = ({ hero }) => {
           }}
         />
         <div className="absolute top-0 right-0 bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg shadow-md">
-          {hero.universe}
+          {hero.universe}.
         </div>
       </div>
 
