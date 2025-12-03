@@ -1,5 +1,5 @@
 import React from "react";
-import { User, MapPin, Trophy } from "lucide-react";
+import { User, MapPin, Trophy } from "lucide-react";  ###
 
 const HeroCard = ({ hero }) => {
   return (
