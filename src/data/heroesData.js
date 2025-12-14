@@ -6,7 +6,6 @@ export const heroesData = [
     power: "Genius, Wealthy, Suit Armor",
     image: "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg",
   },
-  ##
   {
     id: 2,
     name: "Spider-Man",
