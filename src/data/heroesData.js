@@ -1,6 +1,5 @@
 export const heroesData = [
   {
-    ####################
     id: 1,
     name: "Iron Man",
     universe: "Marvel",
