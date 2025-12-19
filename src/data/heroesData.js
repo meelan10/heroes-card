@@ -47,13 +47,7 @@ export const heroesData = [
     universe: "Marvel",
     power: "God of bat, Strength,",
     image: "https://th.bing.com/th/id/OIP.RgHyDSGFNXrcemLuSR0A0AHaHa?w=198&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
-  },
-    {
-    id: 8,
-    name: "spiderman",
-    universe: "Marvel",
-    power: " Strength,",
-    image: "https://th.bing.com/th/id/OIP.ntDnas5Me0IhHOQF8zpTDQHaEK?w=328&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
-  },
+  }
+  
 ];
 
