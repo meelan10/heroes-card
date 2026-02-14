@@ -49,5 +49,5 @@ export const heroesData = [
     image: "https://th.bing.com/th/id/OIP.RgHyDSGFNXrcemLuSR0A0AHaHa?w=198&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
   }
   
-];
+
 
